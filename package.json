@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-scraping",
+  "version": "1.0.0",
+  "description": "Web scraping using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maksym Shokin",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.5.1"
+  }
+}
